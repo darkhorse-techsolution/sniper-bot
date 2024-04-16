@@ -1,0 +1,41 @@
+{
+  "target_tokens": [
+    {
+      "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+      "symbol": "HEX",
+      "decimals": 8,
+      "total_supply": 1
+    },
+    {
+      "address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+      "symbol": "WPLS",
+      "decimals": 18,
+      "total_supply": 1
+    }
+  ],
+  "settings": {
+    "slippage": 0.5,
+    "gas_price": 5000000,
+    "token_in": [{
+      "address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+      "symbol": "WPLS",
+      "decimals": 18,
+      "total_supply": 1
+    }],
+    "token_to_buy": {
+      "address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+      "symbol": "WPLS",
+      "decimals": 18,
+      "total_supply": 1
+    },
+    "buy_amount_tags": [
+      1,
+      10,
+      50,
+      100,
+      500,
+      1000,
+      5000
+    ]
+  }
+}

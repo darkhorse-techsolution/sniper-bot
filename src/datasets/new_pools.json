@@ -1,0 +1,912 @@
+[
+  {
+    "address": "0x413d17641d203b1bdbd965426a4c9056a2aae758",
+    "token_0": "0x8a7b058a2469e752a6a2f2ff6d36a0547221b067",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x71ce25c4ff40b02634bb7fc9b3d8690236522682",
+    "token_0": "0x44319df45d41ebbf50342357b6581630f7812390",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x9154d863fcf04ec727cc4a40ffe4739357b5408a",
+    "token_0": "0x277b078d21c189cfd21aec21d8a2e5ec2e47d593",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x9506da46dcd241ab2bf0024d654c24e1465596f6",
+    "token_0": "0x44319df45d41ebbf50342357b6581630f7812390",
+    "token_1": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xde07f09b3f9dc2f7ecf11768408130df59d347fc",
+    "token_0": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "token_1": "0xa34092900fb9f15075605cd04a8ee5d1a59abd4e",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x52903fcf9c1d441cefecddf4cece77fe04e84199",
+    "token_0": "0x1918ae1d8b4b8234a55b56459e390527382b3df3",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xa9a7bd3ee0877da73effb526f0b5119b42c48214",
+    "token_0": "0x79b0a3153902d59df77b624b4a03211bec5d1db2",
+    "token_1": "0xe37747c9f3e09fcbbc9615a4cd12c97e7bb50e34",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x3ded2a0d990960944d076cf33adce216af64da37",
+    "token_0": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "token_1": "0x8a7b058a2469e752a6a2f2ff6d36a0547221b067",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x23871a8f0973334743877c34707014132b5a3b49",
+    "token_0": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+    "token_1": "0x8a7b058a2469e752a6a2f2ff6d36a0547221b067",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x30b028dde6a7d892876929ef40692564265bc2ec",
+    "token_0": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "token_1": "0xc0c04bec059f3972a32c1807e0a4bb7f1dbd2438",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xf5e4bbfe5189721125ff3cd266219c493557a71f",
+    "token_0": "0x44319df45d41ebbf50342357b6581630f7812390",
+    "token_1": "0xe7b226e3038a350f1a925ea5f6b8e8a3a5f3b93a",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x11e86a554b018e12e795de0cb471e5439ba3bcd5",
+    "token_0": "0x9cc817dcea683ed8aed5da2049b1cc9849f55335",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x6af9458a89040e2e35460a068d20486035e5eea0",
+    "token_0": "0xc53f97bfda090f164fa64f4b8d52855fd1cf2787",
+    "token_1": "0xe7b226e3038a350f1a925ea5f6b8e8a3a5f3b93a",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xc25bcdcee7393e3163a5fdb1f25e0adc68697f79",
+    "token_0": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "token_1": "0xce1e1c7afc344978a4436c08f8c8b96f03719992",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xdc5a0a80ca5509c004596843750a391721b85506",
+    "token_0": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "token_1": "0x9cc817dcea683ed8aed5da2049b1cc9849f55335",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x32ef1439e3e18e79eae5f878e4585d35876a1cbf",
+    "token_0": "0x619a2565dcb3d1d0cc48f4675621e45d8b279ecf",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xd8e91bafe9e30534ed3de75f418f1b3b711f2b2b",
+    "token_0": "0x44319df45d41ebbf50342357b6581630f7812390",
+    "token_1": "0xc53f97bfda090f164fa64f4b8d52855fd1cf2787",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x347b6a8b615f3335e6c839e5b1e85a4a904bb8cd",
+    "token_0": "0x8627f0123f3944d1f5410f3258c4afc4956bf15d",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xcd7c49399592d853dba96629de5423eff4c3d37c",
+    "token_0": "0x960d99ca408df221c4376b0aa56f2f6ea8b9e574",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x5e9545c7f12213f5ec9cb952991dadc2ee40dc44",
+    "token_0": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+    "token_1": "0x619a2565dcb3d1d0cc48f4675621e45d8b279ecf",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xc13d9ec4bd7d174189c2eec6cee7c42dbde61d76",
+    "token_0": "0x619a2565dcb3d1d0cc48f4675621e45d8b279ecf",
+    "token_1": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xfa740d159d00db67196bab7feda036637240c400",
+    "token_0": "0x57fde0a71132198bbec939b98976993d8d89d225",
+    "token_1": "0x619a2565dcb3d1d0cc48f4675621e45d8b279ecf",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xc95540d73867e4d4b4c1e9b0b6f58ddf29dc6633",
+    "token_0": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "token_1": "0xf5d6a8808f6c502fbd55cd2dc5e025cb3b5d3d82",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x32253b2a9a2f6df7d97e142d23e3c11ff86276ca",
+    "token_0": "0x619a2565dcb3d1d0cc48f4675621e45d8b279ecf",
+    "token_1": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x896eb72fe9820ba7511c29d82924b83212d332dd",
+    "token_0": "0x619a2565dcb3d1d0cc48f4675621e45d8b279ecf",
+    "token_1": "0xc669928185dbce49d2230cc9b0979be6dc797957",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xa3efa00fe16cba1ea11d7d45a774228840e92d44",
+    "token_0": "0x698cb3223d8eb1a3d9908e304775118df4f81933",
+    "token_1": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x9791b893b437dcf481483626c2ceb9a84dfee3b6",
+    "token_0": "0x35bdedfc045474738b82a604289540cee19518c2",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xc6cb1728cb5b4c217bface7d10aba69edad19744",
+    "token_0": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "token_1": "0xd7e3ae03fcc047c2f74543dad039c5da58c5d9a8",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x2d4a93df8ad9fb9ef0db754bcb6694f3ca091862",
+    "token_0": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24",
+    "token_1": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x93e5b4622624511a20ea6715354198fc1243e679",
+    "token_0": "0x6cf8390ccf611ec59677a7f17cd569693ad00825",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x52b2b938d79b5e1da0d47132460672f3fda4f144",
+    "token_0": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xed0c41445d2aad1d17711c1227d8b74651b3f451",
+    "token_0": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "token_1": "0x492da5a7614cac267b41d52e574239d9a357d011",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x3ca2bd0b9aa572ac38b5477f686e1a3a67cff7a4",
+    "token_0": "0x396c8434e3fb43f0fcf501a763c312cce7439383",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xd548a024085fc74bc58fd9cba86fc5748b75a606",
+    "token_0": "0xade6fdaba1643e4d1eef68da7170f234470938c6",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x43fe652fb918ea1984433ef2f3ae21e2514b816e",
+    "token_0": "0x674881c61f6a08b0d37d639b9ffe7d64b967b2e8",
+    "token_1": "0x7cbed98f3679795fc8cd8594b98be77575ede156",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x52025c59ed02fe0d92c6bed49afdbf8ee6b6cea2",
+    "token_0": "0x563c20cf8849b5bbbaec4d6020be2d08c912b2b6",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x5341bf45240822c8e9ec4d74b59db3a226077a23",
+    "token_0": "0x319d44afb049a3b462b36db8645327596be14294",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x4b76769f587710182e735dced9acdd936655cc94",
+    "token_0": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "token_1": "0xbe2cd67164b3c1ae1d0b6e1def14df663a64b263",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x0771902be917196d28c6aaae7a9d141d1f479633",
+    "token_0": "0x697fc467720b2a8e1b2f7f665d0e3f28793e65e8",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xd2f4ffb4cf8f291276c634a780cc530219274e94",
+    "token_0": "0xa6da212f22d3df776e70aa7505ed7f2cf11a62f1",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x79ffe37db2e3be706a9d818f6645425ace508e17",
+    "token_0": "0x261babfcb9fc4f37ef331b81e7930704955c5e11",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x21878364b3051e477394745162d0dd8bf29385c9",
+    "token_0": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "token_1": "0xd6c31ba0754c4383a41c0e9df042c62b5e918f6d",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xdde6fbd0fb1276fe7201acab882d3cd308d856c7",
+    "token_0": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "token_1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x6cc87923c1b7f60fef3b90cd5ba34846b13a3b4c",
+    "token_0": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "token_1": "0xc607606c0dc9b084d4e4458449963a975a762093",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x130682736ecad318d6bda8a5f938690623222d37",
+    "token_0": "0x80503db4670d6a573d1adef3979fccc0339f604f",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x8830672cb5d97225b20d20027239c0aaba883f48",
+    "token_0": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x7d8617b3d0c14577f6ec58d97c84589156e9903f",
+    "token_0": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "token_1": "0xe3b3f5f95d263edc6a5e3d4b7314728a390a4342",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x30d2b2d317ded6657c2888aab50519425a0a0765",
+    "token_0": "0x10f82e0bc964df9aab1bbcc4dc605e2e84ab5f2e",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x9e00e25fb4ac746e1fcc01b5fcff6a05a9e65f03",
+    "token_0": "0x9cc7437978255e2c38b0d3d4671fb9ac411a68ac",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x5fe05e24eef61caf4b825801bbfaaee5af5c2342",
+    "token_0": "0x492da5a7614cac267b41d52e574239d9a357d011",
+    "token_1": "0xcc78a0acdf847a2c1714d2a925bb4477df5d48a6",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x54f9f5f35ebb1e1d0413e8994769c2b95b7f52c5",
+    "token_0": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "token_1": "0xf646ed2fc7873c7c412bffb07e2e8038f8eb7895",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x9187fc2dbb3dc924d68e760bf89cc64abc57ba56",
+    "token_0": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x3c8481e9d10872c89b4560932ba49a89b38f971e",
+    "token_0": "0x20a07cb8308833bc2962fc300a6f0dcb04d33d4b",
+    "token_1": "0x492da5a7614cac267b41d52e574239d9a357d011",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x91c6c99d53c6f8f2fd54353621dcc9e7187c2fa7",
+    "token_0": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "token_1": "0xdedccca9d5c6cc9f2a2fd78eb2a8be393d0e858e",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x1a0b4eeb8afc4554107727b1e9dffabcadf2d698",
+    "token_0": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x1a54797ec00b33d96cb27d0a2b65ccfb4560df29",
+    "token_0": "0x396c8434e3fb43f0fcf501a763c312cce7439383",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xba02b90e493e6da6cb7ad24ea2c6da25599b86a7",
+    "token_0": "0x4d5b8bd8cc218989f0c5fff7afa7938f2eba8fa0",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x0238f3353f53df13888d91c72caaf281f63f5dad",
+    "token_0": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+    "token_1": "0x4d5b8bd8cc218989f0c5fff7afa7938f2eba8fa0",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xa187021b4439c27b6d1a40915eea29cdd08f2373",
+    "token_0": "0x4d5b8bd8cc218989f0c5fff7afa7938f2eba8fa0",
+    "token_1": "0x95b303987a60c71504d99aa1b13b4da07b0790ab",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xe9263c3b51c07c712ad97ef782fbc0982855d701",
+    "token_0": "0x2fa878ab3f87cc1c9737fc071108f904c0b0c95d",
+    "token_1": "0x4d5b8bd8cc218989f0c5fff7afa7938f2eba8fa0",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xc8916fc31e54a11851726cd8a496f3c8b8424200",
+    "token_0": "0x4d5b8bd8cc218989f0c5fff7afa7938f2eba8fa0",
+    "token_1": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xad07894ed9934d86dd0ffbd9bdf22673a9e1369a",
+    "token_0": "0x4d5b8bd8cc218989f0c5fff7afa7938f2eba8fa0",
+    "token_1": "0xcc78a0acdf847a2c1714d2a925bb4477df5d48a6",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x04ce996dba7ba0e33774b0fdc07c15b1b79ddde7",
+    "token_0": "0xeb452dda6c4649a207c69945b3a60be0b853379b",
+    "token_1": "0xf5b9303267a88074c3e9b06383ce4bba9a147319",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xb6a9ff3a0a6c2051ae73ef96b61d907fca1fac49",
+    "token_0": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
+    "token_1": "0xb5dd6e135742fe10e040feec967c8c6d588d5232",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xb42fcacded7348bf5fbbbaee00a296653d66b670",
+    "token_0": "0x04ce996dba7ba0e33774b0fdc07c15b1b79ddde7",
+    "token_1": "0x4b1dee70f48e42cc79463a77751761086837f691",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x24db8ea94b0d451580a2e656de043ee352c9a784",
+    "token_0": "0xade6fdaba1643e4d1eef68da7170f234470938c6",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x856995c9f3854c7c9dab704143e6e22821b43c46",
+    "token_0": "0x106c4392e00d0c274b067fd0d6b549b8386d45e2",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x662e0d3e08dd54baa93b321015488f6c8e1383a5",
+    "token_0": "0x4b1dee70f48e42cc79463a77751761086837f691",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xfe5a68030f5013c0b1c3a490061bdfdfa57ce88b",
+    "token_0": "0x319d44afb049a3b462b36db8645327596be14294",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x83fa639f9b3cbe83119562bf96fff79c511b5e40",
+    "token_0": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "token_1": "0xf9b0a9d1005b26e134c228f6da9ffdec32d24e5f",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x2796188f9754e96c94d84119f65177dff8035991",
+    "token_0": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "token_1": "0xbe2cd67164b3c1ae1d0b6e1def14df663a64b263",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xc3db66d1798fc2c12ee7ca20ff1a0a9d86a0974a",
+    "token_0": "0x492da5a7614cac267b41d52e574239d9a357d011",
+    "token_1": "0xe35a842eb1edca4c710b6c1b1565ce7df13f5996",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x2fed2c91d69b7944c17d4cbfc0848823d276b06a",
+    "token_0": "0x697fc467720b2a8e1b2f7f665d0e3f28793e65e8",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x24109fc6d72de3dc1d160dcee22773757c08b0a4",
+    "token_0": "0xa6da212f22d3df776e70aa7505ed7f2cf11a62f1",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x11097b7bf281b303b11168108440c45c4b74a3cd",
+    "token_0": "0x261babfcb9fc4f37ef331b81e7930704955c5e11",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x00843ea16797e55cbaf45ca62b86a8053f14fd4e",
+    "token_0": "0x0bc1e003e2a3ce1428ec1c3b846e99ebc246baa7",
+    "token_1": "0x492da5a7614cac267b41d52e574239d9a357d011",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xe6f084aad96d6cffe9cf2f4d17c06dc56b15d050",
+    "token_0": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "token_1": "0xd6c31ba0754c4383a41c0e9df042c62b5e918f6d",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xd355124278c764e74b3f5572242836ea25f478c1",
+    "token_0": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "token_1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xb899a88d7752bbfa8a146aa187464cc07648aa28",
+    "token_0": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "token_1": "0xc607606c0dc9b084d4e4458449963a975a762093",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xab97ca0eece38f7f8755132ed2d427afdf8bf6a2",
+    "token_0": "0x492da5a7614cac267b41d52e574239d9a357d011",
+    "token_1": "0x697fc467720b2a8e1b2f7f665d0e3f28793e65e8",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x2d64c4c0c7fb75c619891d49a1e801bb2bb32194",
+    "token_0": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x44969702798e5181c111c611f7558736409959f8",
+    "token_0": "0x10f82e0bc964df9aab1bbcc4dc605e2e84ab5f2e",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x94710e77def2e092f5cd35088dc2ad2b14c90386",
+    "token_0": "0x0a9ac223c55f83ec8c5df8ac7a8c4a768d82ad48",
+    "token_1": "0xe3b3f5f95d263edc6a5e3d4b7314728a390a4342",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x798b4eb1ebefc525bcc9bbe8e7ddf88081f0e825",
+    "token_0": "0x9cc7437978255e2c38b0d3d4671fb9ac411a68ac",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x9fd8a8fae22113110a38476f3dc64733e51a6dc2",
+    "token_0": "0x8b40ed0e2b996142f870768f634344c9190f60b8",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x91c4195ef61a26e8456744efd3d7cd6ae1e95e52",
+    "token_0": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "token_1": "0xfaf7d5fdceb6dce56a8a9e997c88187be2f910fe",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x5ffee4510d69dc0c41a34fe2480903a31547a191",
+    "token_0": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "token_1": "0xf646ed2fc7873c7c412bffb07e2e8038f8eb7895",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x7bcfdb6b0f6c180bb0a8be554edf903c30d356f2",
+    "token_0": "0x0a9ac223c55f83ec8c5df8ac7a8c4a768d82ad48",
+    "token_1": "0xe3b3f5f95d263edc6a5e3d4b7314728a390a4342",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xf0fd023d345d0551d5bb79c01dfce9b0d9b6b0f4",
+    "token_0": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "token_1": "0xd88b536dc540cd6849072e63c0c660de7c785715",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xede2acc0c80768503fb7c0beb515cc60214df920",
+    "token_0": "0x34f0915a5f15a66eba86f6a58be1a471fb7836a7",
+    "token_1": "0x4fc0c8a7636cfe551bb077ba928b4e9d59b02dc2",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x87ab5ab88f14d16b75d4a78bdc5f65a8a9493940",
+    "token_0": "0x8da17db850315a34532108f0f5458fc0401525f6",
+    "token_1": "0xc607606c0dc9b084d4e4458449963a975a762093",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xfcec928feff9443b7d9d220b66bb4967b9ff6b4c",
+    "token_0": "0x0a9ac223c55f83ec8c5df8ac7a8c4a768d82ad48",
+    "token_1": "0x9cc7437978255e2c38b0d3d4671fb9ac411a68ac",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xa1d826a8711ff5ea63db1be92b17792ffe3a0381",
+    "token_0": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+    "token_1": "0xc607606c0dc9b084d4e4458449963a975a762093",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x13f880be3d3ffe90d8a99cfe079efd163ef25059",
+    "token_0": "0x396c8434e3fb43f0fcf501a763c312cce7439383",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x6ba08958f9a0e9fbc7f3bc756a4a662a227044a3",
+    "token_0": "0x396c8434e3fb43f0fcf501a763c312cce7439383",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xad95a7989a507d8ba654038d45996e58a68fff40",
+    "token_0": "0x396c8434e3fb43f0fcf501a763c312cce7439383",
+    "token_1": "0xc607606c0dc9b084d4e4458449963a975a762093",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x31f02eeb10ad248a19ec8c9e81c8cf2e923d1d8f",
+    "token_0": "0x396c8434e3fb43f0fcf501a763c312cce7439383",
+    "token_1": "0xc607606c0dc9b084d4e4458449963a975a762093",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x2ad0b37b0b32f63b3e6b55b32dca8f31005f4932",
+    "token_0": "0x741a92e79c956255a14d1de185a6ddf5a677e040",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x9b7f29f390f052442d66583cb22a3ce9557d712f",
+    "token_0": "0x0a9ac223c55f83ec8c5df8ac7a8c4a768d82ad48",
+    "token_1": "0x1c81b4358246d3088ab4361ab755f3d8d4dd62d2",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xe24321fe1dc51a8f263ac8e110e7822dbe5c7350",
+    "token_0": "0x0a9ac223c55f83ec8c5df8ac7a8c4a768d82ad48",
+    "token_1": "0x95b303987a60c71504d99aa1b13b4da07b0790ab",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x5e2c4a7de757056d2192b5b0ea4c9229b95ccdef",
+    "token_0": "0x1bfead49bfd7f9d634a7ff31925c55c77bd304df",
+    "token_1": "0xae78736cd615f374d3085123a210448e74fc6393",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x623174fa5fd067131b0eba367c6caaae7623d277",
+    "token_0": "0x697fc467720b2a8e1b2f7f665d0e3f28793e65e8",
+    "token_1": "0xa6ce344154c3507aba1ab71897b1801f73217b99",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xbf9643588829e3b82152da8d5a1a437869ea2fd4",
+    "token_0": "0x0a9ac223c55f83ec8c5df8ac7a8c4a768d82ad48",
+    "token_1": "0x697fc467720b2a8e1b2f7f665d0e3f28793e65e8",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x57c2a39bae3d354b179bde3c4031dfe487af2eea",
+    "token_0": "0x492da5a7614cac267b41d52e574239d9a357d011",
+    "token_1": "0x95b303987a60c71504d99aa1b13b4da07b0790ab",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xe7462e467237b57a34a7a4ec822f00531611f45b",
+    "token_0": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "token_1": "0xd0de491cfeec0a2c68d89991466a0ec789ecf067",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x6e352c37175d92ea35246b2618d03d08e95ffdd5",
+    "token_0": "0x920401fdce49fc70a2d4cd70db0dd90212a97f98",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xe7693f2830e25b52146200980999a5d514a7eb02",
+    "token_0": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+    "token_1": "0xf27b99d3864e9b3b73f68c0bb0494fd987bdac98",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x1392da054f1d36512fefcba1b3695db46ef5ea30",
+    "token_0": "0x9aacbc4972636f1e9a107cc049492b8e3324cbdc",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x94cafc028c79663fba471282106ff8b76e98f2f1",
+    "token_0": "0xaa45a201c61fed462e160d50c5e8c9c1e2a5a309",
+    "token_1": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x587085231fa4197d082b0f2375a76d0a8e4f5b12",
+    "token_0": "0x9aacbc4972636f1e9a107cc049492b8e3324cbdc",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x1b5ce9fd0bfc22779ce9b187a044f2a3dd5a7b82",
+    "token_0": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "token_1": "0xc23fc3687783f0d3addba150edbc119e29dcb241",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x50c3a6038253ac7cfa09a4dd3ab4cc942802e1dd",
+    "token_0": "0x602339c9a1d1454fab1cb54490f5407495a3d4b9",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xde303a3d45e3fdccd66ec387cfc1c53e25abdfb1",
+    "token_0": "0x04ce996dba7ba0e33774b0fdc07c15b1b79ddde7",
+    "token_1": "0x166030e147f797160d4840a72ede699214a366d9",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x6f3ec77ce94959af813d6c23c3a526f8b98ed5fc",
+    "token_0": "0x4b1dee70f48e42cc79463a77751761086837f691",
+    "token_1": "0xde303a3d45e3fdccd66ec387cfc1c53e25abdfb1",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x040234c50e2f3afdc7cda32732b2a27ebe5784bb",
+    "token_0": "0x9aacbc4972636f1e9a107cc049492b8e3324cbdc",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x8c8a10fcd4dd377583e2a62c228d0fd019b6fd50",
+    "token_0": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "token_1": "0xd2fa90540713b626ea4f0d0e9c6c45d7e9744c21",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xb2ea7f0366b11cbd387b92e0c64ffed6f4dcba62",
+    "token_0": "0x9aacbc4972636f1e9a107cc049492b8e3324cbdc",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x66998d1a9169d3a1f12b3d1e39eba2444aeca5f2",
+    "token_0": "0x7f6faffefad4a8c5b3091c9ecf00d3fa45ba8fae",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x14cf157e307e85862dd3710299e5b7a2f439728a",
+    "token_0": "0x2d7734a95d9d9a5ce7712287da0ddf664ccc1c15",
+    "token_1": "0xefd766ccb38eaf1dfd701853bfce31359239f305",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x6400b93a6a868824248fa4e1d683d6ade980ff8d",
+    "token_0": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "token_1": "0xbaac7c4547457b4f1036c45ccc5059a998b145ec",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xc4e328a839ff9ab325044d309461b88a6a43367f",
+    "token_0": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "token_1": "0xa3ed40dd6c3c442dd55797a228b7ff8d7ec70384",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xe743dcf1fb2afe6983f29ec941497868c3a5eea8",
+    "token_0": "0x6e1d48ed67950ae403a7668d85ad210095445901",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xdd269a3691cad8ccf74ea8326c4fa469f5288a36",
+    "token_0": "0x56ac1cd9dce78d45106adc711e8da39763011a11",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xa1cd8db40472b069e6f54e9de1c1d91242320c27",
+    "token_0": "0x95b303987a60c71504d99aa1b13b4da07b0790ab",
+    "token_1": "0xc607606c0dc9b084d4e4458449963a975a762093",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xd090f469a878ae9c070e3f5659c4a18a596f0153",
+    "token_0": "0x66ebb73eb215dd71afa371243636d01fddc03cd9",
+    "token_1": "0xb44377b74ef1773639b663d0754cb8410a847d02",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xc8c9f79e8f3b485f372d99c3ddebcb5fcb8658a0",
+    "token_0": "0x9b2cb87c4da5e2e81e12ccb7f7ad4ecf0449c56d",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x84fddeb25294fa9459d60b7b1d171286b53425c3",
+    "token_0": "0x616cb6a245ed4c11216ec58d10b6a2e87271845d",
+    "token_1": "0x6c8a6c895729b7bd9ab5df3a8a5435f65bc47c65",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xb7a257ca42de7c972e569d82ee2956103472ad9e",
+    "token_0": "0x91e8f67a7a6c1d63400078ecc18d7540224cad1a",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0xfccf0c5f014c9b733cddb4bd403d6bea7b1b678e",
+    "token_0": "0x616cb6a245ed4c11216ec58d10b6a2e87271845d",
+    "token_1": "0xe08fc6ce880d36a1167701028c0ae84dc3e82b8f",
+    "version": 2,
+    "weth_liquidity": "0"
+  },
+  {
+    "address": "0x4a5a979b000604324a8f81849423554062e7d6ec",
+    "token_0": "0x51d648ade53e4971e185a5556f37241745846150",
+    "token_1": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "version": 2,
+    "weth_liquidity": "0"
+  }
+]
